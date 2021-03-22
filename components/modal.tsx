@@ -30,11 +30,8 @@ export function Modal({route}: any) {
 
 const styles = StyleSheet.create({
     wrapImg: {
-        // height: Dimensions.get('window').height,
         height: 350,
         width: 350,
-        // margin: 1,
-        // padding: 1
         alignSelf: 'center'
     },
     modal: {
